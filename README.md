@@ -1,1 +1,2 @@
-# Stock-Predictive-model-ARIMA-SARIMAX-
+# Time Series/Predictive Analyis
+## Geonic Limited INC.
